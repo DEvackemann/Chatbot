@@ -81,7 +81,7 @@ body.show-chatbot .chatbot-toggler {
 
 /* Apply motion animation to the div */
 .motion-div {
-  animation: motionAnimation 4s linear ; /* Repeat animation infinitely */
+  animation: motionAnimation 4s linear; /* Repeat animation infinitely */
   position: fixed;
   bottom: 0;
   left: 60px; /* Adjust image distance from left side of the page */
